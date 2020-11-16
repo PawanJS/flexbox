@@ -1,4 +1,4 @@
 # flexbox
 Flexbox practice.
 
-<img src="img/screenshot.jpg">
+<img src="screenshot.jpg">
